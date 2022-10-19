@@ -28,3 +28,6 @@
 /venv/*
 perf.data*
 TAGS
+GPATH
+GRTAGS
+GTAGS
